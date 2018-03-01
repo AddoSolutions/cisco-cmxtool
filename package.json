@@ -1,0 +1,14 @@
+{
+  "name": "cisco-cxtool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Nick Artman<nick@addosolutions.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2": "^0.5.5"
+  }
+}
