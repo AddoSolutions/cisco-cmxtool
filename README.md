@@ -6,11 +6,11 @@ Your virtual secretary!
 
 To get this running, you will want to donwload the latest NodeJS version to your laptop:
 
-(https://nodejs.org/en/download/current/)[https://nodejs.org/en/download/current/]
+https://nodejs.org/en/download/current/
 
-Run the installer and then go into your favorite shell
+Run the installer and once you have it installed, either clone or download a zip file of this repository.
 
-Once you have it installed, either clone or download a zip file of this repository.
+Now go into your favorite shell (terminal, comand prompt, powershell?) and run the following
 
 ```shell
 cd Downloads/cisco-cmxtool #Or wherever you downloaded it to
@@ -20,7 +20,7 @@ npm install
 
 ## Running
 
-Running the application is as simple as :
+Running the application is as simple as:
 
 ```shell
 node index.js "bc:9f:ef:93:fb:83" "70:3e:ac:c4:93:75" "70:3e:ac:a1:e9:a9" "dc:ef:ca:fc:02:99" "b8:d7:af:19:21:95" "b8:d7:af:02:59:56"
